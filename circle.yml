@@ -1,5 +1,0 @@
-deployment:
-  staging:
-    branch: master
-    heroku:
-      appname: tranquil-meadow-83575
